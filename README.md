@@ -1,6 +1,6 @@
 # hash-server
 
-This program was developed and tested with Go 1.8 on Linux and Windows. The hash function seems to run considerably faster on Linux than on Windows.
+This program was developed and tested with Go 1.8.3 on Linux (Ubuntu 16.10) and Windows 7. The hash function seems to run considerably faster on Linux than on Windows.
 
 To build, use this command:
 
